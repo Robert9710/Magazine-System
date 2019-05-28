@@ -1,0 +1,65 @@
+Title: KFC
+ID: 237955
+Name: Katherine Smith
+Phone Number: 07349445820
+Email: katherinesmith@gmail.com
+Description: Enjoy each bite
+Width: 13.0
+Height: 89.0
+Location: Center
+OtherDetails: First page preferrend
+
+Title: Asda
+ID: 2378473
+Name: Janet Jordan
+Phone Number: 07230444692
+Email: janetjordan@gmail.com
+Description: Saving you money everyday
+Width: 16.0
+Height: 54.0
+Location: None
+OtherDetails: Nothing
+
+Title: Warbutons chips
+ID: 583058
+Name: John Smith
+Phone Number: 07483944804
+Email: johnsmith@gmail.com
+Description: Let's raise a toast
+Width: 24.0
+Height: 43.0
+Location: Bottom right
+OtherDetails: First page preferred
+
+Title: Tesco
+ID: 348939
+Name: John Salmon
+Phone Number: 07348900335
+Email: johnsalmon@gmail.com
+Description: Everyone is welcome
+Width: 12.0
+Height: 49.0
+Location: None
+OtherDetails: Nothing
+
+Title: Nesquick cereals
+ID: 3400584
+Name: Julia Wilson
+Phone Number: 07346867021
+Email: juliawilson@gmail.com
+Description: For a great start to the day
+Width: 25.0
+Height: 85.0
+Location: Right
+OtherDetails: Nothing
+
+Title: Tesco
+ID: 348939
+Name: John Salmon
+Phone Number: 07348900335
+Email: johnsalmon@gmail.com
+Description: Everyone is welcome
+Width: 12.0
+Height: 49.0
+Location: None
+OtherDetails: Nothing
